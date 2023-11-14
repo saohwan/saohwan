@@ -20,13 +20,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saohwan&layout=compact&theme=본인이선택한테마명&langs_count=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-![Top Langs](https://saohwan.github.io/)
-
-
-<div align="center" style="text-align:center">
-  //  위 아래 한칸씩 꼭 비워야 함.
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${velog닉네임}&tag=${태그}&color=${테마})](${링크 url})
-  //  위 아래 한칸씩 꼭 비워야 함.
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saohwan&layout=compact)
