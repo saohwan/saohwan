@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saohwan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saohwan&layout=compact&theme=본인이선택한테마명&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saohwan&layout=compact&theme=tokyonight&langs_count=3)
